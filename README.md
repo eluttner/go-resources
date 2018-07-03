@@ -64,6 +64,7 @@ A curated list of tutorials, articles, slides, videos and books about Go program
  - [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet) - An overview of Go syntax and features by [Ariel Mashraki](https://github.com/a8m).
  - [Golang Official Wiki](https://github.com/golang/go/wiki) - Official go wiki, a collection of information about the Go Programming Language on Github.
  - [Curated Go Resources](https://hackr.io/tutorials/learn-golang) - recommended resources voted by Programming Community.
+ - [Golang gotchas](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) - 50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs
 
 ---
 
